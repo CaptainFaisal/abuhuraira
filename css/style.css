@@ -1,0 +1,43 @@
+body {
+
+    background: normal;
+    color: green
+}
+
+h1 {
+    border:
+        align-items: center;
+    height: 80px;
+    background: black;
+    color: orangered;
+    text-align: justify;
+
+}
+h3{
+    background: yellow;
+}
+
+img {
+    width: 295px;
+    border: solid green;
+
+}
+ul{
+    list-style-type: square;
+}
+table {
+    justify-content: center;
+    border-collapse: collapse;
+    width: 50%;
+    background: white;
+    color: red;
+    text-align: center;
+    border-bottom-color: green;
+
+}
+
+table th {
+    background: blue;
+    color: aliceblue;
+
+}
