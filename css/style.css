@@ -41,3 +41,7 @@ table th {
     color: aliceblue;
 
 }
+.container{
+    display:flex;
+    justify-content:space-between;
+}
